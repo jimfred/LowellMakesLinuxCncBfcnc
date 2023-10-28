@@ -1,0 +1,7 @@
+o<go_to_home> sub
+
+g28
+
+o<go_to_home> endsub
+
+M2
